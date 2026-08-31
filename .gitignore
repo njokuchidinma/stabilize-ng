@@ -2,6 +2,12 @@
 **/.DS_Store
 
 .venv/
+__pycache__/
+*.py[cod]
+
+*.db
+*.sqlite
+*.sqlite3
 
 # Keep nested Git repositories independent from this parent repository.
 stabilize/
