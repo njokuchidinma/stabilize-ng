@@ -1,0 +1,5 @@
+#include? "Pods/Target Support Files/Pods-Runner/Pods-Runner.profile.xcconfig"
+#include "Generated.xcconfig"
+
+// Workaround for Xcode 16.0 ClangStatCache bug
+SDK_STAT_CACHE_ENABLE=NO
