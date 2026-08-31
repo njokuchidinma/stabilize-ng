@@ -8,7 +8,3 @@ __pycache__/
 *.db
 *.sqlite
 *.sqlite3
-
-# Keep nested Git repositories independent from this parent repository.
-stabilize/
-stabilize-web/
